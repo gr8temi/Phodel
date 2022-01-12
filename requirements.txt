@@ -43,7 +43,7 @@ odfpy==1.4.0
 openpyxl==2.5.12
 pendulum==2.0.4
 Pillow==5.2.0
-pipenv==2018.11.26
+pipenv==2022.1.8
 protobuf==3.6.1
 psycopg2==2.7.7
 pyexcel==0.5.10
